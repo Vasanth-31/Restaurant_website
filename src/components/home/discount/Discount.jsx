@@ -13,7 +13,7 @@ const Discount = () => {
             <div className='button flex '>
               <button className='btn2'>order now</button>
               <h1>
-                $46.99 <span>$59.99</span>
+                $46.99 <span>$69.99</span>
               </h1>
             </div>
           </div>
