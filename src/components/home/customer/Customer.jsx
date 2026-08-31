@@ -30,7 +30,8 @@ const Customer = () => {
                 </div>
                 <p>{val.desc}</p>
                 <div className='details'>
-                  <div className='dbox'>
+                        <div className='dbox'>
+                  <h1>Sample</h1>
                     <h3>{val.name}</h3>
                     <label>{val.post}</label>
                   </div>
