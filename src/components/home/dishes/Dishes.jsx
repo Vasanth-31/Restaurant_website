@@ -24,16 +24,16 @@ const Dishes = () => {
 
           <div className='button'>
             <button onClick={() => filterItems("all")} className='btn1'>
-              all
+              all Menu
             </button>
             <button onClick={() => filterItems("BURGER")} className='btn1'>
-              BURGER
+              BURGERS
             </button>
             <button onClick={() => filterItems("PIZZA")} className='btn1'>
-              PIZZA
+              PIZZAS
             </button>
             <button onClick={() => filterItems("BURGER")} className='btn1'>
-              BLUEBERRY SHAKE
+              BLUEBERRY SHAKES
             </button>
             <button onClick={() => filterItems("PIZZA")} className='btn1'>
               CHICKEN CHUP
